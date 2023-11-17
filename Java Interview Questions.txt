@@ -1,0 +1,20 @@
+Java Interview Questions
+
+1: What is JIT Compiler in JAVA?
+2: Why string is Immutable in Java?
+3: Can you override a private or static method in java?
+4: What is singleton class in Java? And how can we make a class singleton?
+5: What is Springboot? Why did you use springboot in your project? Why not spring?
+6: Is this possible to change the part of embedded tomcat server in springboot?
+7: Can we override or replace the embedded tomcat server in springboot?
+8: Wht is object cloning?
+9: Why java is not completely object oriented?
+10: Define package in Java?
+11: Differentiate between instance and local variables?
+12: What happens when main() method isn't cleared as static?
+13: What is JDK? Mention the variables of JDK?
+14: Brief access specifiers and types of access specifiers?
+15: Why are generics used in java programming?
+16: Explain the term enumeration in Java?
+17: Brief about Spring Framework?
+
